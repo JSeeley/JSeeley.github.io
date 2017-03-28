@@ -18,6 +18,15 @@ h1,h2,h3,h4,h5,h6,label{
 	line-height: 1.5; 
 
 }
+
+.underline {
+	margin-left: 28px;
+}
+
+.headline {
+margin-bottom: 0px;
+}
+
 hr{ 
 	border-top: 1px solid #1F1E1E;
 	border-bottom: 1px solid #3C3B3B;
@@ -28,6 +37,10 @@ hr{
 }*/
 .page-section h2{
 	margin-bottom: 40px;
+}
+
+.hi {
+	margin-top:10px;
 }
 
 .csmall {
@@ -66,13 +79,32 @@ a,.features-box,.btn-grey,.our-team img{
 }
 
 .bb {
-	margin-top: 20px;
+	margin-top: 45px;
 }
 
 .urbaninfluence {
-	margin-top: 67px;
+	margin-top: 40px;
 }
 
+.smm {
+	margin-top: 54px;
+}
+
+.smm2 {
+	margin-top: 64px;
+}
+
+.years {
+	margin-top: 30px;
+}
+
+.kohls {
+	margin-top: 5px;
+}
+
+.purp {
+	margin-top: 30px;
+}
 
   /* Navigation 
  ====================================================================== */
