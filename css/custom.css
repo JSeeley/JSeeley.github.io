@@ -1,7 +1,9 @@
 /* Custom CSS
 ====================================================================== */
 
-
+.headline p {
+	font-size: 2em;
+}
 
 
 /* Higher than 1200 (desktop devices)
