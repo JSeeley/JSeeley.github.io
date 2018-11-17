@@ -28,6 +28,10 @@
 /* All Mobile Sizes (devices and browser)
 ====================================================================== */
 @media only screen and (max-width: 767px) {
+
+	.small-12 {
+		padding-bottom: 20px;
+	}
 	
 }
 
